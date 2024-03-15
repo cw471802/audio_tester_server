@@ -1,0 +1,13 @@
+{
+  "ip": "localhost",
+  "port": 3306,
+  "user": "xing" ,
+  "passwd": "earchon",
+  "dbName": "AUDIO_TESTER",
+  "minSize": 20,
+  "maxSize": 256,
+  "maxIdleTime": 5000, 
+  "timeout": 1000,     
+  "level" :  1
+}
+
